@@ -1,1 +1,2 @@
-Ciao sono lorenzo di caterino e mi piace la programmazione
+Ciao sono lorenzo di caterino e mi piace la programmazione.
+H fatto delle operazioni su git.
